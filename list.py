@@ -1,4 +1,3 @@
-Here's the step-by-step solution to the problem:
 
 # Create an empty list called my_list
 my_list = []
